@@ -1,0 +1,158 @@
+State,City,Attractions,Climate,Ratings
+Goa,Vagator,8,9,8
+Goa,Panaji,7,8,7
+Goa,Canacona,6,7,8
+Goa,Baga,9,8,9
+Goa,Arambol,7,9,7
+Goa,Mapusa,6,7,6
+Goa,Margao,6,8,7
+Goa,Calangute,8,8,8
+Goa,Colva,7,7,8
+Goa,Anjuna,8,9,8
+Goa,Ponda,6,8,7
+Uttar Pradesh,Varanasi,9,7,8
+Uttar Pradesh,Lucknow,8,8,7
+Uttar Pradesh,Allahabad,7,7,6
+Uttar Pradesh,Agra,9,6,9
+Uttar Pradesh,Vrindavan,8,8,7
+Uttar Pradesh,Kanpur,7,7,6
+Uttar Pradesh,Meerut,6,8,7
+Uttar Pradesh,Gorakhpur,7,6,7
+Uttar Pradesh,Bareilly,6,7,6
+Uttar Pradesh,Aligarh,6,8,6
+Uttar Pradesh,Moradabad,6,7,6
+Uttar Pradesh,Ayodhya,8,7,8
+Uttar Pradesh,Hastinapur,7,8,7
+Kerala,Alleppey,8,8,8
+Kerala,Thiruvananthapuram,7,8,7
+Kerala,Munnar,9,9,9
+Kerala,Kozhikode,7,8,7
+Kerala,Kochi,8,7,8
+Kerala,Kollam,6,7,6
+Kerala,Thrissur,7,8,7
+Kerala,Palakkad,6,7,6
+Kerala,Kottayam,7,8,7
+Kerala,Kasaragod,6,7,6
+Kerala,Wayanad,8,9,8
+Madhya Pradesh,Bhopal,8,7,8
+Madhya Pradesh,Indore,7,8,7
+Madhya Pradesh,Ujjain,6,7,6
+Madhya Pradesh,Gwalior,8,7,8
+Madhya Pradesh,Jabalpur,7,8,7
+Madhya Pradesh,Sagar,6,7,6
+Madhya Pradesh,Rewa,6,8,7
+Madhya Pradesh,Satna,7,7,7
+Madhya Pradesh,Ratlam,6,7,6
+Madhya Pradesh,Chhindwara,6,7,6
+Uttarakhand,Rishikesh,9,8,9
+Uttarakhand,Narendra Nagar,8,8,8
+Uttarakhand,Mussoorie,9,8,9
+Uttarakhand,Joshimath,8,7,8
+Uttarakhand,Haridwar,8,8,8
+Uttarakhand,Dehradun,7,8,7
+Uttarakhand,Nainital,8,8,8
+Uttarakhand,Auli,9,9,9
+Uttarakhand,Chamoli,8,8,8
+Uttarakhand,Rudraprayag,7,8,7
+Uttarakhand,Uttarkashi,7,8,7
+Uttarakhand,Ramnagar,7,7,7
+Rajasthan,Jaipur,9,7,9
+Rajasthan,Jodhpur,8,8,8
+Rajasthan,Udaipur,9,8,9
+Rajasthan,Jaisalmer,9,9,9
+Rajasthan,Ajmer,7,8,7
+Rajasthan,Kota,7,7,7
+Rajasthan,Bikaner,7,8,7
+Rajasthan,Alwar,7,8,7
+Rajasthan,Mount Abu,8,8,8
+Rajasthan,Pushkar,8,8,8
+Maharashtra,Mumbai,9,7,9
+Maharashtra,Pune,8,8,8
+Maharashtra,Lonavala,8,8,8
+Maharashtra,Nagpur,7,7,7
+Maharashtra,Nashik,7,8,7
+Maharashtra,Aurangabad,7,7,7
+Maharashtra,Kolhapur,7,7,7
+Maharashtra,Solapur,6,7,6
+Maharashtra,Amravati,6,7,6
+Maharashtra,Akola,6,7,6
+West Bengal,Kolkata,8,7,8
+West Bengal,Darjeeling,9,8,9
+West Bengal,Siliguri,7,7,7
+West Bengal,Howrah,7,7,7
+West Bengal,Durgapur,6,7,6
+West Bengal,Asansol,6,7,6
+West Bengal,Bardhaman,6,7,6
+West Bengal,Haldia,6,7,6
+West Bengal,Krishnanagar,6,7,6
+West Bengal,Murshidabad,6,7,6
+Punjab,Amritsar,8,7,8
+Punjab,Ludhiana,7,8,7
+Punjab,Jalandhar,7,7,7
+Punjab,Patiala,7,8,7
+Punjab,Mohali,6,7,6
+Punjab,Bathinda,6,7,6
+Punjab,Pathankot,6,7,6
+Punjab,Hoshiarpur,6,7,6
+Punjab,Moga,6,7,6
+Punjab,Firozpur,6,7,6
+Gujarat,Ahmedabad,8,8,8
+Gujarat,Surat,8,8,8
+Gujarat,Vadodara,7,8,7
+Gujarat,Rajkot,7,7,7
+Gujarat,Gandhinagar,7,8,7
+Gujarat,Bhavnagar,6,7,6
+Gujarat,Jamnagar,6,7,6
+Gujarat,Junagadh,6,7,6
+Gujarat,Anand,6,7,6
+Gujarat,Navsari,6,7,6
+Tamil Nadu,Chennai,8,8,8
+Tamil Nadu,Coimbatore,7,7,7
+Tamil Nadu,Madurai,8,8,8
+Tamil Nadu,Tiruchirappalli,7,7,7
+Tamil Nadu,Salem,6,7,6
+Tamil Nadu,Tirunelveli,6,7,6
+Tamil Nadu,Vellore,6,7,6
+Tamil Nadu,Thoothukudi,6,7,6
+Tamil Nadu,Thanjavur,7,8,7
+Tamil Nadu,Erode,6,7,6
+Karnataka,Bangalore,9,8,9
+Karnataka,Mysore,8,8,8
+Karnataka,Mangalore,7,8,7
+Karnataka,Hubli,6,7,6
+Karnataka,Belgaum,6,7,6
+Karnataka,Gulbarga,6,7,6
+Karnataka,Davanagere,6,7,6
+Karnataka,Bellary,6,7,6
+Karnataka,Bijapur,6,7,6
+Karnataka,Shimoga,6,7,6
+Telangana,Hyderabad,9,8,9
+Telangana,Warangal,7,7,7
+Telangana,Nizamabad,6,7,6
+Telangana,Karimnagar,6,7,6
+Telangana,Ramagundam,6,7,6
+Telangana,Khammam,6,7,6
+Telangana,Mahbubnagar,6,7,6
+Telangana,Nalgonda,6,7,6
+Telangana,Adilabad,6,7,6
+Telangana,Suryapet,6,7,6
+Bihar,Patna,7,7,7
+Bihar,Gaya,7,8,7
+Bihar,Bhagalpur,6,7,6
+Bihar,Muzaffarpur,6,7,6
+Bihar,Purnia,6,7,6
+Bihar,Darbhanga,6,7,6
+Bihar,Aurangabad,6,7,6
+Bihar,Begusarai,6,7,6
+Bihar,Katihar,6,7,6
+Bihar,Chhapra,6,7,6
+Assam,Guwahati,8,8,8
+Assam,Dibrugarh,7,7,7
+Assam,Silchar,7,7,7
+Assam,Jorhat,6,7,6
+Assam,Nagaon,6,7,6
+Assam,Tinsukia,6,7,6
+Assam,Bongaigaon,6,7,6
+Assam,Tezpur,6,7,6
+Assam,Karimganj,6,7,6
+Assam,Hailakandi,6,7,6
